@@ -1067,7 +1067,77 @@ Slider Description */
 }
 
 
-  /* new product cart design */
+  /* new call to action design */
 
+  .call_to_action{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #fff;
+    text-align: center;
+    
+  }
+
+  .left_side_icon{
+
+  }
+
+
+  .left_side_icon i{
+    font-size: 30px;
+    padding: 20px;
+    color: #fff;
+}
+
+
+
+  .right_side_text{
+
+  }
+
+
+  .right_side_text h3{
+    color: #fff;
+    font-size: 19px;
+    text-align: left;
+    margin-top: 26px;
+
+}
+
+.new_bg{
+    background: #47b957;
+    border-radius: 100px;
+    
+    
+}
+
+/* @media (min-width: 1200px){
+.new_bg{
+    
+    border-radius: 100px;
+    margin-right: 15px;
+    width: 23%;
+}
+} */
+
+
+
+.new_bg:hover{
+    background: #2f843a;
+   
+    
+}
+
+.is-visible{
+    display: flex;
+}
+
+.is-hidden{
+    display: block;
+}
+
+#navigation {
+    background-color: #30323a;
+    margin-top: -52px;
+}
 
   
